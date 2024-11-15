@@ -1,0 +1,306 @@
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\bui dang tan\Desktop\Chunganh\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\mdcvn\Desktop\Form\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Chienyen Computer\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT2\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT2\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\bui dang tan\Desktop\ChuongtrinhQLDiemTHPT------------\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\CongthjeuGia_Pro\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT=========\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\mdcvn\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.dll
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\Administrator\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.xml
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.dll
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\NGC\Desktop\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.xml
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.dll
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Vbe.Interop.dll
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.xml
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.xml
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.AssemblyReference.cache
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.GenerateResource.cache
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.csproj.CoreCompileInputs.cache
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\Chuongtr.8BC3A668.Up2Date
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe.config

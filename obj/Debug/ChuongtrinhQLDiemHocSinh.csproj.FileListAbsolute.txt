@@ -1,0 +1,50 @@
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe.config
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.dll
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Vbe.Interop.dll
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.xml
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.xml
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemHocSinh.csproj.AssemblyReference.cache
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemHocSinh.csproj.GenerateResource.cache
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemHocSinh.csproj.CoreCompileInputs.cache
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\Chuongtr.CC1E4799.Up2Date
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+T:\Lập trình window\source\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe.config
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.exe
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\ChuongtrinhQLDiemTHPT.pdb
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.dll
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Vbe.Interop.dll
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\Microsoft.Office.Interop.Excel.xml
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\bin\Debug\office.xml
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemHocSinh.csproj.AssemblyReference.cache
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChinhDiem.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmDangnhap.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmChuongtrinhchinh.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmGioithieu.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLBanhoc.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLHocsinh.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmQLLop.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTaotaikhoan.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTimkiem.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTKBangdiem.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.frmTongket.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.Properties.Resources.resources
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemHocSinh.csproj.GenerateResource.cache
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemHocSinh.csproj.CoreCompileInputs.cache
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\Chuongtr.CC1E4799.Up2Date
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.exe
+T:\Lập trình window\Bài Tập\BaiTapLon\Final\ChuongtrinhQLDiemTHPT\ChuongtrinhQLDiemTHPT\obj\Debug\ChuongtrinhQLDiemTHPT.pdb

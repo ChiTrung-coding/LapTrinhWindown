@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D7712FC3-53C4-4B1B-A435-AD92D01EBC7C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChuongtrinhQLDiemTHPT</RootNamespace>
+    <AssemblyName>ChuongtrinhQLDiemTHPT</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>Resources\document_pencil.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, PublicKeyToken=0ed4c5f2bbf81ac0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Sunisoft\IrisSkin\Bin\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsThaotac.cs" />
+    <Compile Include="EFDbContext.cs" />
+    <Compile Include="frmChinhDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChinhDiem.Designer.cs">
+      <DependentUpon>frmChinhDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangnhap.Designer.cs">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChuongtrinhchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChuongtrinhchinh.Designer.cs">
+      <DependentUpon>frmChuongtrinhchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGioithieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGioithieu.Designer.cs">
+      <DependentUpon>frmGioithieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLBanhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLBanhoc.Designer.cs">
+      <DependentUpon>frmQLBanhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLHocsinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLHocsinh.Designer.cs">
+      <DependentUpon>frmQLHocsinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLLop.Designer.cs">
+      <DependentUpon>frmQLLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaotaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaotaikhoan.Designer.cs">
+      <DependentUpon>frmTaotaikhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimkiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimkiem.Designer.cs">
+      <DependentUpon>frmTimkiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTKBangdiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTKBangdiem.Designer.cs">
+      <DependentUpon>frmTKBangdiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongket.Designer.cs">
+      <DependentUpon>frmTongket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20240608063926_Migration1.cs" />
+    <Compile Include="Migrations\20240608063926_Migration1.Designer.cs">
+      <DependentUpon>20240608063926_Migration1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20240609044624_migration2.cs" />
+    <Compile Include="Migrations\20240609044624_migration2.Designer.cs">
+      <DependentUpon>20240609044624_migration2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\EFDbContextModelSnapshot.cs" />
+    <Compile Include="Model\BangDiem.cs" />
+    <Compile Include="Model\ChinhDiem.cs" />
+    <Compile Include="Model\HocSinh.cs" />
+    <Compile Include="Model\Lop.cs" />
+    <Compile Include="Model\LopDanhNghia.cs" />
+    <Compile Include="Model\MonHoc.cs" />
+    <Compile Include="Model\TaiKhoan.cs" />
+    <Compile Include="Model\TongKet.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility.cs" />
+    <EmbeddedResource Include="frmChinhDiem.resx">
+      <DependentUpon>frmChinhDiem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangnhap.resx">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChuongtrinhchinh.resx">
+      <DependentUpon>frmChuongtrinhchinh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGioithieu.resx">
+      <DependentUpon>frmGioithieu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLBanhoc.resx">
+      <DependentUpon>frmQLBanhoc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLHocsinh.resx">
+      <DependentUpon>frmQLHocsinh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLLop.resx">
+      <DependentUpon>frmQLLop.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaotaikhoan.resx">
+      <DependentUpon>frmTaotaikhoan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimkiem.resx">
+      <DependentUpon>frmTimkiem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTKBangdiem.resx">
+      <DependentUpon>frmTKBangdiem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongket.resx">
+      <DependentUpon>frmTongket.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ebooks-laptop.jpg" />
+    <None Include="Resources\4a16b6dd_2d3acf8c_logo-utehy.jpg" />
+    <None Include="Resources\48bf26ae_14826_resize.jpg" />
+    <None Include="Resources\2007_hinh-nen-ppt-de-thuong8.jpg" />
+    <Content Include="Resources\document_pencil.ico" />
+    <None Include="Resources\netvibes.png" />
+    <None Include="Resources\imasges1.jpg" />
+    <None Include="Resources\imasges.jpg" />
+    <None Include="Resources\help.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\RSS.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\clipboard.png" />
+    <None Include="Resources\app.png" />
+    <None Include="Resources\id-card.png" />
+    <None Include="Resources\note-2.png" />
+    <None Include="Resources\myspace.png" />
+    <None Include="Resources\block.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
